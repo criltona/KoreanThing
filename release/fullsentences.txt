@@ -1,0 +1,670 @@
+Lesson-2-2.mp3	나는 펜이 있어	I have a pen	2
+Lesson-2-3.mp3	나는 차가 있어	I have a car	2
+Lesson2new9.mp3	나는 학교에 있어	I am at school	2
+Lesson-2-1.mp3	나는 캐나다에 있어	I am in Canada	2
+Lesson-2-s1.mp3	나는 학교 앞에 있어	I am in-front of the school	2
+Lesson-2-7.mp3	저는 학교 옆에 있어요	I am beside the school	2
+Lesson-2-8.mp3	저는 은행 안에 있어요	I am inside the bank	2
+Lesson-2-9.mp3	개는 집 안에 있어요	The dog is in the house	2
+Lesson-2-10.mp3	고양이는 의자 밑에 있어요	The cat is under the chair	2
+13.mp3	식당은 은행 옆에 있어요	The restaurant is next to the bank	2
+14.mp3	호텔은 학교 옆에 있어요	The hotel is next to the school	2
+Lesson-3-1.mp3	저는 케이크를 만들어요	 I make a cake	3
+Lesson-3-2.mp3	저는 배를 원해요	 I want a boat	3
+Lesson-3-3.mp3	저는 한국어를 말해요	 I speak Korean	3
+Lesson-3-4.mp3	저는 공원에 가요 	 I go to the park	3
+Lesson-3-5.mp3	저는 문을 닫아요	 I close the door	3
+Lesson-3-6.mp3	저는 창문을 열어요	 I open the window	3
+Lesson-3-7.mp3	저는 이해해요	 I understand	3
+Lesson-3-8.mp3	저는 아름다워요	 I am beautiful	3
+This-bus-is-big.mp3	이 버스는 커요	 This bus is big	3
+That-hospital-is-new.mp3	그 병원은 새로워요	 That hospital is new	3
+This-park-is-very-small.mp3	이 공원은 매우 작아요	 This park is very small	3
+Lesson-3-10.mp3	그 사람은 뚱뚱해요	 That person is fat	3
+The-teachers-car-is-big.mp3	선생님의 차는 커요	 The teacher’s car is big	3
+Lesson-3-11.mp3	저는 선생님의 차를 원해요	 I want the teacher’s car	3
+16.mp3	저의 손가락은 길어요	 My finger is long	3
+Lesson-3-s1.mp3	그 여자의 눈은 아름다워요	 That woman’s eyes are beautiful	3
+Lesson-3-new2.mp3	저는 저의 친구를 만나요	 I meet my friend	3
+Lesson-3-new3.mp3	저는 친구를 만나요	 I meet (my/a) friend	3
+This-food-is-good.mp3	이 음식은 좋아요	 this food is good	3
+That-teacher-is-good.mp3	그 선생님은 좋아요	 that teacher is good	3
+22.mp3	이 학교는 좋아요	 This school is good	3
+Lesson-3-15.mp3	저는 이 음식을 좋아해요	 I like this food	3
+Lesson-3-16.mp3	저는 그 선생님을 좋아해요	 I like that teacher	3
+Lesson-3-new6.mp3	우리는 너를 좋아해 	 We like you	3
+Lesson-3-new7.mp3	선생님은 우리를 좋아해요	 The teacher likes us	3
+Lesson-3-new4.mp3	우리 선생님은 남자야	 Our teacher is a man(i)	3
+28.mp3	우리 집은 커요	 Our house is big	3
+Lesson-4-1.mp3	안녕히 가세요	Goodbye (said to somebody going)	4
+Lesson-4-2.mp3	안녕히 계세요	Goodbye (said to somebody staying)	4
+Lesson-4-3.mp3	만나서 반갑습니다	Nice to meet you(H)	4
+Lesson-4-4.mp3	실례합니다	Excuse me	4
+Lesson-4-5.mp3	죄송합니다	Sorry	4
+Lesson-4-6.mp3	이름이 뭐예요?	What is your name?	4
+Lesson-4-7.mp3	어디에서 왔어요?	Where are you from?	4
+Expensive-Food.mp3	비싼 음식	expensive food	4
+111.mp3	저는 비싼 음식을 먹어요	I eat expensive food	4
+121.mp3	저는 비싼 음식을 좋아해요	I like expensive food	4
+sLesson-4-1.mp3	저는 작은 집에 가요	I go to the small house	4
+151.mp3	저는 큰 차를 원해요	I want a big car	4
+sLesson-4-2.mp3	저는 잘생긴 남자를 만나요	I meet a handsome man	4
+sLesson-4-3.mp3	저는 많은 돈이 있어요	I have a lot of money	4
+Lesson-4-s9.mp3	저는 뚱뚱한 학생을 만나요	I meet a fat student	4
+sLesson-4-1.mp3	저는 작은 집에 가요	I go to the small house	4
+Lesson-4-s11.mp3	그 집은 작아요	That house is small	4
+23.mp3	남자는 음식을 먹어요	The man eats food	4
+24.mp3	행복한 여자는 작은 차 안에 있어요	The happy girl is inside the small car	4
+sLesson-4-5.mp3	그 남자는 재미있는 남자예요	that man is a funny man	4
+sLesson-4-7.mp3	저는 많은 음식을 먹어요	I eat a lot of food	4
+sLesson-4-10.mp3	사람이 많아요	there is a lot of people	4
+sLesson-4-12.mp3	저도 한국어를 말해요	I speak Korean as well (In addition to other people)	4
+sLesson-4-13.mp3	저는 한국어도 말해요	I speak Korean as well (in addition to other languages)	4
+sLesson-4-14.mp3	저도 사과를 먹어요	I (also)eat apples as well	4
+sLesson-4-15.mp3	저는 사과도 먹어요	I eat apples(also) as well	4
+3-I-always-eat-food-in-evening.mp3	나는 항상 저녁에 음식을 먹어	I always eat food in the evening(i)	6
+4-I-always-see-my-teacher.mp3	나는 나의 선생님을 항상 봐	I always see my teacher(i)	6
+4.mp3	저는 항상 저녁에 음식을 먹어요	I always eat food in the evening	6
+8-I-always-exercise-in-the-morning.mp3	저는 항상 아침에 운동해요	I always exercise in the morning	6
+9-I-always-eat-food-in-the-evening.mp3	저는 항상 저녁에 음식을 먹습니다	I always eat food in the evening(H)	6
+10-I-always-see-my-teacher.mp3	저는 저의 선생님을 항상 봅니다	I always see my teacher(H)	6
+Lesson-6-I-always-exercise-in-the-morning.mp3	저는 항상 아침에 운동합니다	I always exercise in the morning(H)	6
+13-I-ate.mp3	나는 먹었어	I ate(i)	6
+11.mp3	나는 들어봤어	I listened(i)	6
+131.mp3	저는 먹었어요	I ate	6
+15.mp3	저는 운동했어요	I exercised	6
+Lesson8nnsent810.mp3	저는 먹었습니다	I ate (H)	6
+19-I-listened.mp3	저는 들어봤습니다	I listened (H)	6
+23-I-will-eat.mp3	나는 먹겠어	I will eat(i)	6
+24-I-will-learn.mp3	나는 배우겠어	I will learn(i)	6
+26-I-will-learn.mp3	저는 배우겠어요	I will learn	6
+27-I-will-eat.mp3	저는 먹겠습니다	I will eat (H)	6
+29-I-will-learn.mp3	저는 배우겠습니다	I will learn (H)	6
+Lesson-7-1-I-build-a-house.mp3	나는 집을 지어	I build a house	7
+Lesson-7-2-I-built-a-house.mp3	저는 집을 지었어요	I built a house	7
+Lesson-7-3-I-laughed.mp3	저는 웃었어요	I laughed	7
+Lesson-7-4-I-took-off-my-clothes.mp3	저는 저의 옷을 벗었어요	I took off my clothes	7
+Lesson-7-1-I-washed-my-hands.mp3	저는 저의 손을 씻었어요	I washed my hands	7
+Lesson-7-5-I-walk.mp3	저는 걸어요	I walk	7
+Lesson-7-6-I-walked.mp3	저는 걸었어요	I walked	7
+Lesson-7-7-Received-money.mp3	돈을 받았어요	I received money	7
+Lesson-7-2-I-burried-my-dog.mp3	저는 저의 강아지를 묻었어요	I buried my dog	7
+Lesson-7-3-I-closed-the-door.mp3	저는 문을 닫았어요	I closed the door	7
+Lesson-7-8-That-thing-is-easy.mp3	그것은 쉬워	That thing is easy	7
+Lesson-7-9-That-is-difficult.mp3	그것은 어려워요	That is difficult	7
+11-That-girl-is-cute.mp3	그 여자는 귀여워요	That girl is cute	7
+Lesson-7-10-I-helped-my-mother.mp3	저는 저의 어머니를 도왔어요	I helped my mother	7
+12-I-like-cute-girls.mp3	저는 귀여운 여자를 좋아해요	I like cute girls	7
+13-I-did-easy-work.mp3	저는 쉬운 일을 했어요	I did easy work	7
+Lesson-7-6-I-have-soft-hands.mp3	나는 부드러운 손이 있어= I have soft hands	7
+15-I-like-cold-weather.mp3	저는 추운 날씨를 좋아해요	I like cold weather	7
+Lesson-7-8-That-school-is-new.mp3	그 학교는 새로워요	That school is new	7
+Lesson-7-9-That-is-a-new-school.mp3	그것은 새로운 학교예요	That (thing) is a new school	7
+Lesson-7-11-This-room-is-wide.mp3	이 방은 넓어요	This room is wide(big)	7
+Lesson-7-12-I-caught-the-ball.mp3	저는 공을 잡았어요	I caught the ball	7
+16-I-locked-the-door.mp3	저는 문을 잠갔어요	I locked the door	7
+17-I-am-busy.mp3	저는 바빠요	I am busy	7
+Lesson-7-13-That-girl-is-pretty.mp3	그 여자는 예뻐요	That girl is pretty	7
+Lesson-7-s1.mp3	그 집은 커요	That house is big	7
+Lesson-7-15-I-am-very-sad.mp3	저는 아주 슬퍼요	I am very sad	7
+Lesson-7-14-I-scratched-my-head.mp3	저는 머리를 긁었어요	I scratched my head	7
+18-I-heard-a-mouse.mp3	저는 쥐를 들었어요	I heard a mouse	7
+That-thing-is-different.mp3	그것은 달라요	That thing is different	7
+That-man-is-fast.mp3	그 남자는 빨라요	That man is fast	7
+19-I-called-my-sister.mp3	저는 저의 누나를 불렀어요	I called my sister	7
+20-I-crossed-the-long-street.mp3	저는 긴 거리를 건넜어요	I crossed the long street	7
+21-I-went-to-a-far-away-hospital.mp3	저는 먼 병원에 갔어요	I went to a far away hospital (a hospital that is far away)	7
+Lesson-7-25-I-make-a-cake.mp3	나는 케이크를 만든다	I make a cake	7
+Lesson-7-s4.mp3	그 여자는 예쁩니다	That girl is pretty(h)	7
+Lesson-7-s5.mp3	이 방은 넓습니다	This room is big/wide(h)	7
+24-I-open-the-door.mp3	저는 문을 엽니다	I open the door(h)	7
+Lesson-7-s6.mp3	저는 케이크를 만듭니다	I make a cake(h)	7
+Lesson-7-27-That-girls-hair-is-long.mp3	그 여자의 머리카락은 깁니다	That girls hair is long(h)	7
+Lesson8-1I-built-a-hospital.mp3	저는 병원을 지었어요	I built a hospital	8
+Lesson8-2I-went-to-thea-hospital.mp3	저는 병원에 갔어요	I went to the/a hospital	8
+1-I-built-a-hospital.mp3	저는 병원을 공원 옆에 지었어요	I built a hospital beside the park	8
+2-I-will-go-on-Tuesday.mp3	저는 화요일에 가겠어요	I will go on Tuesday	8
+3-I-studied-in-the-evening.mp3	저는 저녁에 공부했어요	I studied in the evening	8
+Lesson8-3I-built-a-hospital-beside-the-park-in-the-fall.mp3	저는 가을에 공원 옆에 병원을 지었어요	I built a hospital beside the park in the fall	8
+5-I-will-study-in-the-summer.mp3	여름에 저는 공부하겠어요	I will study in the summer	8
+Lesson-8-s1.mp3	저는 한국에 오늘 도착했어요	I arrived in Korea today	8
+Lesson-8-s2.mp3	저는 도서관에 어제 갔어요	I went to the library yesterday	8
+Lesson-8-6-I-will-study-Korean-tomorrow.mp3	저는 내일 한국어를 공부하겠어요	I will study Korean tomorrow.	8
+Lesson8-4I-meet-my-friend-often.mp3	저는 저의 친구를 자주 만나요	I meet my friend often	8
+Lesson8-5I-ate-a-lot-of-food-rice.mp3	저는 밥을 많이 먹었어요	I ate a lot of food (rice)	8
+Lesson8-6I-went-home-immediately.mp3	저는 집에 바로 갔어요	I went home immediately	8
+Lesson8-7I-did-my-homework-quickly.mp3	저는 숙제를 빨리 했어요	I did my homework quickly	8
+Lesson-8-7-I-ate-quietly.mp3	저는 조용하게 먹었어요	I ate quietly	8
+Lesson-8-8-I-crossed-the-street-safely.mp3	저는 거리를 안전하게 건넜어요	I crossed the street safely	8
+9-I-lived-happily.mp3	저는 행복하게 살았어요	I lived happily	8
+Lesson-8-10-I-ran-really-quickly.mp3	저는 매우 빨리 달렸어요	I ran really quickly	8
+Lesson-8-12-I-left-immediately.mp3	저는 바로 떠났어요	I left immediately	8
+Lesson-8-13-I-often-meet-my-friend-on-Thursday.mp3	저는 저의 친구를 목요일에 자주 만나요	I often meet my friend on Thursday	8
+Lesson-8-14-I-eat-too-much-someitmes.mp3	저는 가끔 너무 많이 먹어요	I eat too much sometimes	8
+Lesson8-10That-girl-isnt-pretty.mp3	그 여자는 안 예뻐요	That girl isn’t pretty(안)	8
+Lesson-8-21-I-dont-like-fish.mp3	저는 생선을 안 좋아해요	I don’t like fish(안)	8
+Lesson-8-19-Im-not-going-to-school-tomorrow.mp3	저는 내일 학교에 안 가겠어요	I’m not going to school tomorrow(안)	8
+Lesson8-11That-girl-isnt-pretty.mp3	그 여자는 예쁘지 않아요	That girl isn’t pretty(지)	8
+Lesson-8-22-I-dont-like-fish.mp3	저는 생선을 좋아하지 않아요	I don’t like fish(지)	8
+Lesson-8-20-Im-not-going-to-school-tomorrow.mp3	저는 내일 학교에 가지 않겠어요	I’m not going to school tomorrow(지)	8
+Lesson8nnsent7.mp3	저는 공부를 안 했어요	I didn’t study(하다 + 지)	8
+Lesson8nnsent8.mp3	저는 실수를 안 했어요	I didn’t make (do) a mistake(하다 + 지)	8
+Lesson8nnsent.mp3	저는 여행을 안 했어요	I didn’t travel(하다 + 지)	8
+Lesson8-13I-am-not-a-teacher.mp3	저는 선생님이 아니에요	I am not a teacher	8
+Lesson8-14I-am-not-your-friend.mp3	나는 너의 친구가 아니야	I am not your friend	8
+Lesson8-15I-am-not-a-University-Student.mp3	저는 대학생이 아니에요	I am not a University Student	8
+25-I-dont-have-money.mp3	저는 돈이 없어요	I don’t have money	8
+26-I-dont-have-time.mp3	저는 시간이 없어요	I don’t have time	8
+Lesson8-16We-dont-have-a-car.mp3	우리는 차가 없어요	 We don’t have a car	8
+27-My-friend-is-not-in-Korea-now.mp3	저의 친구는 지금 한국에 없어요	My friend is not in Korea now	8
+28-There-was-nobody-there.mp3	사람이 없었어요	There was no people	8
+29-I-dislike-fruit.mp3	저는 과일을 싫어해요	I dislike fruit	8
+Lesson8nnsent9.mp3	저는 과일을 좋아해요	I like fruit	8
+Lesson-9-3-I-am-a-good-student.mp3	나는 좋은 학생이야	I am a good student(i)	9
+Lesson9-1that-thing-is-a-book.mp3	그것은 책이야	That thing is a book(i)	9
+Lesson9-3This-is-a-passport.mp3	이것은 여권이야	This is a passport(i)	9
+Lesson-9-4-That-thing-is-an-apple.mp3	그것은 사과야	That thing is an apple(i)	9
+Lesson9-6I-am-not-a-student.mp3	나는 학생이 아니야	I am not a student(i)	9
+Lesson9-7That-thing-is-not-a-book.mp3	그것은 책이 아니야	That thing is not a book(i)	9
+Lesson-9-5-That-thing-is-a-picture.mp3	그것은 사진이에요	That thing is a picture	9
+Lesson9-8I-am-a-teacher.mp3	저는 선생님이에요	I am a teacher	9
+Lesson9-9I-am-a-good-student.mp3	저는 좋은 학생이에요	I am a good student	9
+Lesson-9-6-This-person-is-my-sister.mp3	이 사람은 저의 누나예요	This (person) is my sister	9
+Lesson9-10I-am-a-doctor.mp3	저는 의사예요	I am a doctor	9
+Lesson9-11That-thing-is-an-apple.mp3	저것은 사과예요	That thing is an apple	9
+Lesson9-12I-am-not-a-student.mp3	저는 학생이 아니에요	I am not a student	9
+Lesson-9-7-I-am-a-doctor.mp3	저는 의사입니다	I am a doctor(H)	9
+Lesson-9-8-That-person-is-my-brother.mp3	그 사람은 저의 형입니다	That person is my brother(H)	9
+Lesson9-13I-am-a-teacher.mp3	저는 선생님입니다	I am a teacher(H)	9
+Lesson9-14I-am-a-good-student.mp3	저는 좋은 학생입니다	I am a good student(H)	9
+Lesson9-15This-meet-is-pork.mp3	이 고기는 돼지고기입니다	This meat is pork(H)	9
+Lesson9-16I-am-not-a-doctor.mp3	저는 의사가 아닙니다	I am not a doctor(H)	9
+Lesson9-20That-building-is-not-a-theater.mp3	그 건물은 극장이 아닙니다	That building is not a theater(H)	9
+Lesson-9-9-I-was-a-bad-teacher.mp3	나는 바쁜 선생님이었어	I was a busy teacher(i)	9
+Lesson9-21I-was-a-student.mp3	나는 학생이었어	I was a student(i)	9
+Lesson9-22I-was-a-teacher.mp3	나는 선생님이었어	I was a teacher(i)	9
+Lesson9-23I-was-a-bad-baby.mp3	나는 나쁜 애기였어	I was a bad baby(i)	9
+Lesson-9-10-I-was-a-bad-doctor.mp3	나는 나쁜 의사였어	I was a bad doctor(i)	9
+Lesson-9-11-That-was-a-big-secret.mp3	그것은 큰 비밀이었어요	That was a big secret	9
+Lesson9-25I-was-a-teacher.mp3	저는 선생님이었어요	I was a teacher	9
+Lesson-9-12-I-was-a-doctor.mp3	저는 의사였어요	I was a doctor	9
+Lesson9-24I-was-a-bad-baby.mp3	저는 나쁜 애기였어요	I was a bad baby	9
+Lesson-9-15-I-was-a-teacher.mp3	저는 선생님이었습니다	I was a teacher	9
+Lesson-9-16-I-was-a-doctor.mp3	저는 의사였습니다	I was a doctor	9
+Lesson-9-20-I-will-eat-rice.mp3	저는 밥을 먹을 것이에요	I will eat rice	9
+Lesson-9-21-I-will-eat-rice.mp3	저는 밥을 먹을 거예요	I will eat rice	9
+Lesson-9-22-I-will-meet-my-friend-tomorrow.mp3	나는 내일 친구를 만날 것이야	I will meet my friend tomorrow(것)	9
+Lesson-9-23-I-will-meet-my-friend-tomorrow.mp3	나는 내일 친구를 만날 거야	I will meet my friend tomorrow(거)	9
+Lesson-9-24-I-will-go-to-school-tomorrow.mp3	저는 내일 학교에 갈 것입니다	I will go to school tomorrow(것)(H)	9
+Lesson-9-25-I-will-study-English.mp3	저는 영어를 공부할 거예요	I will study English(거)	9
+Lesson9-32I-will-open-the-door.mp3	저는 문을 열 거예요	I will open the door (거)	9
+Lesson-9-26-I-will-be-a-teacher-soon.mp3	저는 곧 선생님이 될 것입니다	I will become a teacher soon(것)	9
+Lesson9-33I-will-be-a-teacher-soon.mp3	저는 곧 선생님일 거예요	I will be a teacher soon(거)	9
+Lesson9-36Korea-will-become-a-good-country-soon.mp3	한국이 곧 좋은 나라가 될 것이다	Korea will become a good country soon(것)	9
+Lesson-9-s5.mp3	그 사람이 의사일 거예요	That person is probably/most likely a doctor	9
+Lesson-9-s6.mp3	그것은 여권일 거예요	That thing is probably/most likely a passport	9
+Lesson-9-s9.mp3	그것은 여권이 아닐 거야	That thing is probably/most likely not a passport	9
+Lesson-9-s10.mp3	문제는 돈이 아닐 거야	The problem is probably/most likely not money	9
+Lesson10-Feb-10-1.mp3	나는 펜 네 개를 샀어	I bought four pens(item first)	10
+Lesson10-Feb-10-2.mp3	나는 햄버거 두 개를 먹었어	I ate two hamburgers(item irst)	10
+10-I-ate-2-hamburgers.m4a	나는 두 개의 햄버거를 먹었어	I ate two hamburgers(#first)	10
+Lesson-10-1.mp3	나는 어제 다섯 명의 친구를 만났어	I met five friends yesterday(#first)	10
+Lesson10-Feb-10-4.mp3	그 사람은 차 네 대가 있어요	That person has four cars(item first)	10
+Lesson10-Feb-10-5.mp3	저는 우유 두 잔을 샀어요	I bought two glasses of milk(item first)	10
+Lesson10-Feb-10-6.mp3	저는 땅콩 두 개를 먹었어요	I ate two peanuts(item first)	10
+12-I-went-to-school-three-times-yesterday.m4a	저는 어제 학교에 세 번 갔어요	I went to school three times yesterday	10
+13-I-saw-that-movie-five-time.m4a	저는 그 영화를 다섯 번 봤어요	I saw that movie five times	10
+15-230.m4a	2시 30분	2:30(#)	10
+15-230.m4a	두 시 삼십 분	Two thirty(written #)	10
+18-I-will-eat-at-5.m4a	나는 5시에 먹을 거야	I will eat at 5:00	10
+Lesson-10-2.mp3	나는 2시 30분에 왔어	I came at 2:30	10
+Lesson10-Feb-10-9.mp3	우리는 야구를 1시에 할 거예요	We will play baseball at 1:00	10
+Lesson-10-s1.mp3	우리는 7시 20분에 시작할 거예요	We will start at 7:20	10
+Lesson-10-s2.mp3	저는 열 살이에요	I am ten years old	10
+Lesson-10-s3.mp3	저의 여자 친구는 스물여섯 살이에요	My girlfriend is twenty six years old	10
+Lesson-10-s4.mp3	몇 살이에요?	How old are you?	10
+20-My-first-friend-was-nice.m4a	저의 첫 번째 친구는 착했어요	My first friend was nice	10
+Lesson10-Feb-10-10.mp3	저는 첫 번째 차를 싫어했어요	I didn’t like that first car	10
+21-That-second-teacher-was-smart.m4a	그 두 번째 선생님은 똑똑했어요	That second teacher was smart	10
+Lesson10-Feb-10-11.mp3	저는 두 번째 남자를 골랐어요	I chose the second man	10
+Lesson10-Feb-10-12.mp3	이 여권은 저의 세 번째 여권이에요	This is my third passport	10
+Lesson10-Feb-10-13.mp3	저는 세 번째 문을 열었어요	I opened the third door	10
+Lesson10-Feb-10-14.mp3	저는 네 번째 사람이었어요	I was the fourth person	10
+Lesson10-Feb-10-15.mp3	이 아이는 저의 네 번째 아들이에요	This person is my fourth son	10
+Lesson10-Feb-10-16.mp3	이 수업은 오늘 저의 열 번째 수업입니다	This is my tenth class today	10
+Lesson10-Feb-10-17.mp3	저는 백 번째 페이지를 읽었어요	I read the 100th page	10
+Lesson10-Feb-10-18.mp3	우리 둘째 아들은 고등학생이에요	Our second son is a high school student(combined)	10
+Lesson10-Feb-10-19.mp3	우리 셋째 아이는 야구를 좋아해요	Our third child likes baseball(combined)	10
+Lesson10-Feb-10-20.mp3	이 아이는 우리 첫째 아들이에요	This (child) is our first son(combined)	10
+22-This-is-my-last-class.m4a	이것은 저의 마지막 수업이에요	This is my last class	10
+23-I-didnt-see-the-last-thing.m4a	저는 마지막 것을 안 봤어요	I didn’t see the last thing (I didn’t see that last one)	10
+24-I-didnt-like-that-girl-at-first.m4a	처음에 그 여자를 싫어했어요	I didn’t like that girl at first	10
+Lesson10-Feb-10-24.mp3	저는 처음에 체육 수업을 싫어했어요	At first I didn’t like PE class	10
+25-I-met-my-teacher-for-the-first-time-yesterday.m4a	저는 어제 선생님을 처음 만났어요	I met my teacher for the first time yesterday	10
+26-I-will-go-to-Korea-for-the-first-time-tomorrow.m4a	저는 내일 한국에 처음 갈 것입니다	I will go to Korea for the first time tomorrow	10
+Lesson11sentence1.mp3	저는 10분 동안 걸었어요	I walked for (a period of) 10 minutes(#)	11
+Lesson11sentence2.mp3	저는 30분 동안 공부했어요	I studied for (a period of) 30 minutes(#)	11
+Lesson11sentence3.mp3	저는 이틀 동안 안 잤어요	I didn’t sleep for two days(written #)	11
+3I-slept-for-3-hours.m4a	저는 세 시간 동안 잤어요	I slept for 3 hours(written #)	11
+Lesson11sentence4.mp3	저는 한 시간 동안 달렸어요	I ran for one hour(written #)	11
+Lesson11sentence5.mp3	저는 여덟 시간 동안 운전했어요	I drove for eight hours(written #)	11
+Lesson11sentence6.mp3	저는 어제 한 시간 동안 야구를 했어요 	I played baseball for an hour yesterday(written #)	11
+4-I-watched-TV-for-2-hours-yesterday.m4a	저는 어제 두 시간 동안 TV를 봤어요*	I watched TV for two hours yesterday(written #)	11
+5I-ran-for-2-seconds.m4a	저는 2초 동안 달렸어요	I ran for 2 seconds(#)	11
+Lesson11sentence7.mp3	저는 그 사람을 10초 동안 만났어요	I met that person for 10 seconds(#)	11
+6-I-saw-a-movie-last-week.m4a	저는 지난 주에 영화를 봤어요	I saw a movie last week	11
+7-I-went-to-Canada-last-week.m4a	저는 지난 주에 캐나다에 갔어요	I went to Canada last week.	11
+8-I-didn-take-the-last-class.m4a	저는 지난 수업을 안 들었어요	I didn’t go to/attend the last/previous class	11
+9-I-learned-that-thing-last-time.m4a	저는 그것을 지난 시간에 배웠어요	I learned that (thing) last time(시간)	11
+Lesson11sentence9.mp3	저는 그것을 지난 번에 배웠어요	I learned that (thing) last time(번)	11
+Lesson11sentence10.mp3	우리가 지난 번에 계획이 없었어요	We didn’t have plans last time(번)	11
+Lesson11sentence11.mp3	우리는 지난 번에 돼지고기를 먹었어요	We ate pork last time(번)	11
+10-I-will-see-a-movie-next-week.m4a	저는 다음 주에 영화를 볼 거예요	I will see a movie next week	11
+11-I-will-go-to-Canada-next-week.m4a	저는 다음 주에 캐나다에 갈 거예요	I will go to Canada next week	11
+Lesson11sentence12.mp3	우리는 다음 번에 학교에 갈 거예요	We will go to school next time(번)	11
+Lesson11sentence15.mp3	나는 너를 다음 시간에 방문할 거야	I will visit you next time(시간)	11
+12-I-studied-for-3-days.m4a	나는 삼 일 동안 공부했어	I studied for 3 days(written #)	11
+Lesson11sentence16.mp3	나는 삼 일 동안 학교에 안 갔어	I didn’t go to school for 3 days(written #)	11
+Lesson11sentence17.mp3	저는 5일 동안 계획이 없을 거예요	I won’t have plans for 5 days(#)	11
+Lesson11sentence18.mp3	우리는 6일 동안 만나지 않았어요	We didn’t meet for 6 days(3)	11
+14-I-travelled-for-1-day.m4a	저는 하루 동안 여행했어요	I traveled for 1 day(하루)	11
+Lesson11sentence21.mp3	나는 3일에 수업을 들었어	I went to class on the 3rd (day of the month)(#)	11
+Lesson11sentence22.mp3	나는 3일 동안  수업을 들었어	I went to class for three days(#)	11
+Lesson11sentence23.mp3	저는 8월 15일에 도착할 거예요	I will arrive on August 15th(#)	11
+Lesson11sentence24.mp3	저는 이 여권을 1월 2일에 받았어요	I received my passport on January 2nd(#)	11
+17-I-went-on-that-day.m4a	저는 그 날에 갔어요	I went on that day	11
+Lesson11sentence26.mp3	우리는 그 날에 시작할 거예요	We will start on that day	11
+Lesson11sentence27.mp3	우리는 두 번째 날에 서울에 갔어요	We went to Seoul on the second day	11
+Lesson11sentence30.mp3	우리는 셋째 날에 안 만났어요	We didn’t meet on the third day(combined)	11
+Lesson11sentence32.mp3	저는 넷째 날에 계획이 없어요	I have no plans on the fourth day(combined)	11
+Lesson11sentence33.mp3	저는 첫날에 명동에 갔어요	I went to 명동 on the first day	11
+Lesson11sentence34.mp3	저는 첫날에 그 여자를 만났어요	I met that girl on the first day	11
+19-I-will-go-to-the-US-next-week.m4a	저는 다음 주에 미국에 갈 거예요	I will go to the US next week	11
+20-I-had-a-lot-of-plans-last-week.m4a	지난 주에 저는 계획이 많았어요	I had a lot of plans last week	11
+Lesson11sentence35.mp3	저는 2주 동안 한식을 안 먹었어요	I didn’t eat Korean food for 2 weeks(#)	11
+Lesson11sentence36.mp3	저는 4주 동안 여자친구를 안 만났어요	I didn’t meet my girlfriend for 4 weeks(#)	11
+21-I-took-an-Korean-class-for-2-months.m4a	저는 두 달 동안 한국어 수업을 들었어요	I took a Korean class for 2 months(written #)	11
+Lesson11sentence39.mp3	저는 2개월 동안 한국어 수업을 들었어요	I took a Korean class for 2 months(#)	11
+Lesson11sentence39.mp3	저는 이 개월 동안 한국어 수업을 들었어요	I took a Korean class for 2 months(written #)	11
+22-I-didnt-meet-my-brother-for-3-years.m4a	저는 3년 동안 형을 안 만났어요	I didn’t meet my brother for 3 years(#)	11
+23-I-studied-Korean-for-10-years.m4a	저는 십 년 동안 한국어를 공부했어요	I studied Korean for ten years(written #)	11
+24-I-will-go-to-Korea-next-year.m4a	나는 내년에 한국에 갈 거야	I will go to Korea next year(i)	11
+Lesson11sentence40.mp3	그 사람은 작년에 죽었어요	That person died last year	11
+25-I-have-no-plans-this-week.m4a	저는 이번 주에 계획이 없어요	I have no plans this week	11
+26-My-mom-will-come-to-Korea-this-year.m4a	저의 어머니는 올해 한국에 올 것입니다	My mom will come to Korea this year	11
+27We-learned-a-lot-this-time.m4a	우리는 이번 시간에 많이 배웠어	We learned a lot this time	11
+28-I-wont-meet-you-this-time.m4a	나는 너를 이번에 안 만날 거야	I won’t meet you this time(i)	11
+29I-will-go-to-the-museum-next-time.m4a	저는 박물관에 다음 번에 갈 거예요	I will go to the museum next time	11
+30I-went-to-the-museum-last-time.m4a	저는 박물관에 지난 번에 갔어요	I went to the museum last time	11
+Lesson11sentence41.mp3	저는 이 약을 하루에 두 번 먹어요	I eat (take) this medicine twice per day	11
+Lesson11sentence42.mp3	저는 그 친구를 1주일에 한 번 만나요	I meet that friend once per week	11
+Lesson11sentence43.mp3	저는 여기에 한 달에 세 번 와요	I come here three times per month	11
+Lesson11sentence44.mp3	저는 1년에 두 번 미국에 가요	I go to America twice per year	11
+2-I-bought-some-apples.m4a	나는 사과 몇 개를 샀어	I bought SOME apples	12
+3-I-bought-some-pens.m4a	나는 몇 개의 펜을 샀어	I bought some pens	12
+5-I-went-to-school-a-few-times.m4a	나는 학교에 몇 번 갔어	I went to school a few/some times	12
+6-doctors-have-a-lot-of-money.m4a	의사들은 돈이 많아	doctors have a lot of money	12
+7-the-teacher-will-meet-the-students-tomorrow.m4a	선생님은 내일 학생들을 만날 거야	The teacher will meet the students tomorrow	12
+8-Actors-usually-dont-like-thier-movies.m4a	배우들은 그들의 영화를 보통 좋아하지 않아	actors usually don’t like their movies	12
+9-I-only-drink-water.m4a	나는 물만 마셔	I only drink water	12
+Only-I-like-that-girl.m4a	나만 그 여자를 좋아해	Only I like that girl	12
+Lesson-12-sentence-1.mp3	나는 그 여자만 좋아해	I only like that girl	12
+Lesson-12-sentence-2.mp3	나만 사과를 샀어	Only I bought apples	12
+10-I-only-bought-apples.m4a	나는 사과만 샀어	I only bought apples	12
+11-I-only-bought-1-apple.m4a	나는 사과 한 개만 샀어	I only bought 1 apple	12
+Lesson-12-sentence-3.mp3	저는 차 두 대만 있어요	I only have two cars	12
+Lesson-12-sentence-4.mp3	저는 친구 한 명만 만났어요	I only met one friend	12
+12-I-only-studied.m4a	저는 공부만 했어요	I only studied	12
+13-Yesterday-I-only-worked.m4a	저는 어제 일만 했어요	Yesterday, I only worked	12
+Lesson-12-sentence-5.mp3	우리는 학교에만 갔어요	We only went to school	12
+Lesson-12-sentence-6.mp3	학생들은 교실 안에만 있어요	The students are only in their classrooms	12
+Lesson-12-sentence-7.mp3	저는 밤에만 운동해요	I exercise only at night	12
+Lesson-12-sentence-8.mp3	저는 커피를 낮에만 마셔요	I drink coffee only during the day	12
+Lesson-12-sentence-9.mp3	저는 그 여자를 그때만 사랑했어요	I loved her only at that time	12
+14-I-will-study-at-school.m4a	저는 학교에서 공부할 거예요	I will study at school	12
+15-I-saw-my-friend-at-the-hospital.m4a	저는 저의 친구를 병원에서 봤어요	I saw my friend at the hospital	12
+16-I-will-meet-my-husband-at-the-park.m4a	저는 남편을 공원에서 만날 거예요	I will meet my husband at the park	12
+17-I-learned-Korean-in-Korea.m4a	저는 한국어를 한국에서 배웠어요	I learned Korean in Korea	12
+Lesson-12-sentence-10.mp3	저는 방에서 탁자에 병을 놓았어요	I placed the bottle on the table in the room	12
+Lesson-12-sentence-12.mp3	과일은 한국에서 비싸요	Fruit is expensive in Korea	12
+Lesson-12-sentence-13.mp3	저는 학교에서 추웠어요	I was cold at school	12
+Lesson-12-sentence-14.mp3	고등학교는 한국에서 어려워요	High school is difficult in Korea	12
+Lesson-12-sentence-15.mp3	녹차는 한국에서 유명해요	Green Tea is famous in Korea	12
+Lesson-12-sentence-17.mp3	저는 차 안에 있어요	I’m in the car	12
+Lesson-12-s3.mp3	저는 한국에서 갈 거예요	I will go from Korea	12
+18-The-next-bus-will-depart-from-that-station.m4a	다음 버스는 저 정류장에서 출발할 거예요	The next bus will depart from that station	12
+19-I-will-get-off-at-Seoul-Station.m4a	저는 서울역에서 내릴 거예요	I will get off at (from) Seoul station	12
+20-The-student-came-out-of-the-classroom.m4a	학생은 교실에서 나왔어요	the student came out of the classroom	12
+Lesson-12-sentence-18.mp3	저는 캐나다에서 왔어요	I come from Canada	12
+21-I-will-wait-until-300.m4a	3시까지 기다릴 거예요	I will wait until 3:00	12
+22-I-liked-that-girl-until-now.m4a	그 여자를 지금까지 좋아했어요	I liked that girl until now	12
+23-I-will-work-at-that-company-until-March.m4a	저는 그 회사에서 5월까지 일할 거예요	I will work at that company until May	12
+Lesson-12-sentence-19.mp3	저는 그때까지 김치를 먹지 않았어요	I hadn’t eaten Kimchi until that time	12
+Lesson-12-sentence-20.mp3	저는 오늘 이 책을 여기까지 읽었어요	Today, I read up to here in this book	12
+Lesson-12-sentence-21.mp3	저는 한강까지 달렸어요	I ran until (I reached) the Han River	12
+Lesson-12-sentence-22.mp3	나는 인천에서 서울까지 갈 거야	I will depart from Incheon and go to (until) Seoul(i)	12
+24-I-will-go-from-Incheon-to-Seoul.m4a	나는 인천부터 서울까지 갈 거야	I will go from Incheon to Seoul	12
+18-The-next-bus-will-depart-from-that-station.m4a	다음 버스는 저 정류장에서 출발할 거예요	The next bus will leave from that stop	12
+Lesson-12-sentence-23.mp3	저는 어제부터 아팠어요	I have been sick since (from) yesterday	12
+Lesson-12-sentence-24.mp3	저는 내일부터 한국어를 공부할 거예요	I’m going to study Korean from tomorrow	12
+Lesson-12-sentence-25.mp3	내년부터 우리는 서울에서 살 거예요	From next year, we will be living in Seoul	12
+Lesson-12-sentence-26.mp3	저는 3시부터 학교에 있을 거예요	I will be at school from 3:00	12
+Lesson-12-sentence-27.mp3	저는 작년부터 한국어를 배웠어요	I have been learning Korean since last year	12
+25-I-only-studied-from-morning-to-night.m4a	저는 아침부터 밤까지 공부만 했어요	From morning to night I only studied	12
+26-I-will-be-in-Canada-from-the-1st-to-the-8th.m4a	나는 캐나다에 1일부터 8일까지 있을 거야	I will be in Canada from the 1st to the 8th(i)	12
+Lesson-12-sentence-28.mp3	그들은 저를 처음부터 싫어했어요	They didn’t like me from the start	12
+Lesson-12-sentence-29.mp3	우리는 그 일을 처음부터 시작할 거예요	We will start that job/task from the beginning	12
+Lesson-12-sentence-30.mp3	저는 그 상황을 처음부터 끝까지 몰랐어요	I didn’t know that situation from start to finish	12
+Lesson-12-sentence-31.mp3	저는 그것을 처음부터 끝까지 복습했어요	I reviewed that from start to finish	12
+Lesson-12-sentence-32.mp3	저는 그 책을 처음부터 끝까지 읽었어요	I read that book from start to finish	12
+27-I-built-our-house-out-of-wood.m4a	나는 우리 집을 나무로 지었어	I built our house out of wood(i)	12
+28-I-will-go-to-Jeju-by-boat.m4a	배로 제주에 갈 거야	I will go to Je-ju by boat	12
+29-I-built-that-with-my-hands.m4a	저는 그것을 손으로 만들었어요	I built that with my hands	12
+Lesson-12-sentence-33.mp3	저는 그 문장을 한국어로 말했어요	I said that sentence (using) in Korean	12
+Lesson-12-sentence-34.mp3	저는 그것을 영어로 할 거예요	I will say that (using) in English	12
+30-I-ate-rice-for-breakfast.m4a	저는 아침식사로 밥을 먹었어요	I ate rice for breakfast	12
+31-I-usually-only-eat-fruit-for-lunch.m4a	저는 보통 점심식사로 과일만 먹었어요	I usually only ate fruit for lunch	12
+Lesson-12-sentence-35.mp3	저는 그것을 두 번째로 했어요	I did that second (I was the second person to do that)	12
+Lesson-12-sentence-36.mp3	저는 학교에 두 번째로 왔어요	I came to school second (I was the second person to come to school)	12
+Lesson-12-sentence-37.mp3	저는 그것을 첫 번째로 할 거예요	I will go (do it) first	12
+33-my-friend-went-that-way.m4a	저의 친구는 저 쪽으로 갔어요	My friend went that way	12
+34-Students-walk-towards-their-class.m4a	학생들은 교실 쪽으로 걸어요	Students walk towards/in the direction of their class	12
+Lesson-12-sentence-38.mp3	저는 집 안 쪽으로 달렸어요	I ran inside the house(into the house/in the direction of ‘inside the house.’)	12
+Lesson-12-sentence-39.mp3	저는 집 안에서 달렸어요	I ran inside the house	12
+Lesson-13-sentence-1.mp3	우리는 밥과 빵을 팔아요	We sell rice and bread	13
+1-I-bought-apples-and-bananas.m4a	나는 사과와 바나나를 샀어	I bought apples and bananas(와)	13
+Lesson-13-sentence-2.mp3	나는 인천이랑 서울에 갈 거야	I will go to Seoul and Incheon(랑)	13
+3-My-brother-and-dad-saw-a-movie.m4a	형하고 아버지는 영화를 봤어	My brother and dad saw a movie(하고)	13
+Lesson-13-sentence-3.mp3	저는 약과 녹차만 샀어요	I only bought medicine and green tea	13
+Lesson-13-sentence-4.mp3	저는 친구와 집에 갔어요	I went home with my friend(와)	13
+5-I-will-go-to-the-park-with-my-dad.m4a	나는 아버지랑 공원에 갈 거야	I will go to the park with my dad	13
+Lesson-13-sentence-5.mp3	요즘에 사람들이 친구들이랑 매운 음식을 먹지 않아요	These days, people don’t eat spicy food with their friends	13
+Lesson-13-sentence-6.mp3	우리는 빵을 같이 먹었어요	We ate bread together(같이)	13
+Lesson-13-sentence-9.mp3	우리는 집에 함께 들어갔어요	We went into the house together(함께)	13
+Lesson-13-sentence-10.mp3	우리는 음악을 같이 들었어요	We listened to music together(같이)	13
+Lesson-13-sentence-12.mp3	저는 빵을 친구랑 같이 먹었어요	I ate bread with a friend (together)(랑+같이)	13
+Lesson-13-sentence-15.mp3	저는 빵을 친구와 먹었어요	I ate bread with a friend(와)	13
+Lesson-13-sentence-16.mp3	저는 녹차를 엄마랑 같이 마셨어요	I drank green tea with my mom(랑+같이)	13
+Lesson-13-sentence-17.mp3	저는 엄마랑 유명한 영화를 같이 봤어요	I saw/watched a famous movie with my mom(랑+같이)	13
+Lesson-13-sentence-18.mp3	저는 여자 친구와 함께 영화를 봤어요	I watched a movie with my girlfriend(와 함께)	13
+Lesson-13-sentence-19.mp3	나는 친구랑 같이 있어	I’m with my friend(랑 같이)(i)	13
+Lesson-13-sentence-20.mp3	저는 친구와 집에 함께 있어요	I’m with a friend at home(와 함께)	13
+9-The-father-gives-money-to-his-son.m4a	아버지는 아들에게 돈을 준다	The father gives money to his son	13
+10-I-taught-Korean-to-the-students.m4a	나는 학생들한테 한국어를 가르쳤어	I taught Korean to the students	13
+Lesson-13-s1.mp3	저는 부장님께 그 사실을 말할 거예요	I will tell that (fact) to my boss	13
+11-I-gave-the-principal-a-book.m4a	나는 책을 교장선생님께 줬어	I gave the principal a book	13
+12-I-received-a-letter-from-my-girlfriend.m4a	나는 나의 여자친구에게서 편지를 받았어	I received a letter from my girlfriend	13
+Lesson-13-s2.mp3	저는 교감선생님에게서 한국어를 배웠어요	I learned Korean from my vice principal	13
+Lesson-13-s3.mp3	저는 그것을 친구한테서 들었어요	I heard that from my friend	13
+Lesson-13-sentence-22.mp3	나는 나의 여자친구로부터 편지를 받았어	I received a letter from my girlfriend(i)	13
+Lesson-13-sentence-25.mp3	저는 친구들로부터 사랑을 많이 받았어요	I received a lot of love from friends	13
+Lesson-13-sentence-26.mp3	아버지로부터 선물이 왔어요	A present came from my father	13
+41.mp3	나는 돈을 정부로부터 받았어	I received money from the government(i)(i)	13
+Lesson-13-sentence-27.mp3	이것을 하늘로부터 받았어요	I received this from the sky (heavens)	13
+14-I-bought-flowers-for-my-girlfriend.m4a	나는 나의 여자 친구를 위해서 꽃을 샀어	I bought flowers for my girlfriend(i)	13
+44.mp3	나는 부장님을 위해서 이것을 썼어	I wrote this for my boss(i)	13
+Lesson-13-sentence-28.mp3	저는 친구를 위해 빵을 만들었어요	I made bread for my friend	13
+Lesson-13-sentence-29.mp3	아버지를 위해 시원한 물을 준비했어요	I prepared cool water for my father	13
+16-I-will-work-hard-for-the-company.m4a	저는 회사를 위해 열심히 일할 거예요	I will work hard for the company	13
+Lesson-13-sentence-30.mp3	나는 너에 대해 생각했어	I thought about you(i)	13
+Lesson-13-sentence-31.mp3	나는 나의 아버지에 대해 말했어	I spoke about my father(i)	13
+19-I-will-write-a-book-about-it.m4a	나는 그것에 대해 책을 쓸 거야	I will write a book about it(i)	13
+Lesson-13-sentence-32.mp3	그 회계사는 정부에 대해 나쁜 말을 했어요	That accountant said bad things about the government	13
+Lesson-14-1.mp3	저는 점심을 준비했어요	I prepared (the) lunch	14
+Lesson-14-2.mp3	점심이 준비되었어요	(The) lunch was prepared	14
+3-The-company-replaced-the-machine.m4a	회사는 기계를 대체했어	The company replaced the machine(i)	14
+4-The-machine-was-replaced.m4a	기계는 대체되었어	The machine was replaced(i)	14
+8-it-was-understood.m4a	그것은 이해되었어	it was understood(i)	14
+9-It-was-understood-by-the-students.m4a	그것은 학생들에게 이해되었어	It was understood by the students(i)	14
+10-the-house-was-cleaned.m4a	집은 청소되었어	the house was cleaned(i)	14
+11-the-house-was-cleaned-by-my-dad.m4a	집은 아버지에게 청소되었어	the house was cleaned by my dad(i)	14
+Lesson-14-4.mp3	아버지는 집을 청소했어요	My dad cleaned the house	14
+Lesson-14-5.mp3	저는 집을 청소기로 청소했어요	I cleaned the house with a vacuum cleaner	14
+12-the-house-was-cleaned-by-a-vacuum-cleaner.m4a	집은 청소기로 청소되었어요	the house was cleaned by a vacuum cleaner, whereas:	14
+13-I-respect-my-brother.m4a	저는 저의 형을 존경해요	I respect my brother	14
+14-My-brother-is-respected.m4a	저의 형은 존경 받아요	My brother is respected (literally-my brother receives respect)	14
+15-The-principal-is-respected-by-the-teachers.m4a	교장선생님은 선생님들에게 존경받아요	The principal is respected by the teachers	14
+16-I-was-impressed-with-what-you-said.m4a	나는 너의 말에 감동받았어	I was impressed with what you said	14
+Lesson-14-8.mp3	문은 바람에 의해 닫혔어요	The door was closed by the wind	14
+18-I-turned-the-computer-on.m4a	저는 컴퓨터를 켰어요	I turned the computer on	14
+19-The-computer-is-in-the-state-of-being-on.m4a	컴퓨터가 켜져 있어요	The computer is (in the state of) on	14
+20-I-turned-the-TV-off.m4a	저는 TV를 껐어요	I turned the TV off	14
+21-The-TV-is-in-the-state-of-being-off.m4a	TV가 꺼져 있어요	The TV is (in the state of) off	14
+22-I-locked-the-door.m4a	저는 문을 잠갔어요	I locked the door	14
+23-The-door-is-in-the-state-of-being-locked.m4a	문이 잠겨 있어요	The door is (in the state of) locked	14
+Lesson-14-9.mp3	저는 문을 닫았어요	I closed the door	14
+Lesson-14-10.mp3	문이 닫혔어요	The door was closed	14
+Lesson-14-11.mp3	문이 바람에 닫혔어요	The door was closed by the wind	14
+39.mp3	나는 친구를 속였어	I tricked my friend	14
+Lesson-14-17.mp3	나는 친구에게 속았어	I was tricked by my friend	14
+29-My-homework-is-finished.m4a	숙제는 끝났어요	My homework is finished	14
+31-the-computer-is-broken.m4a	컴퓨터는 고장 났어요	The computer is broken	14
+28-I-finished-my-homework.m4a	저는 숙제를 끝냈어요	I finished my homework	14
+30-I-broke-the-computer.m4a	저는 컴퓨터를 고장냈어요	I broke the computer	14
+33-I-have-a-good-idea.m4a	좋은 생각이 났어요!	I have a good idea (Literally – a good idea came up)	14
+Lesson-14-18.mp3	그 가방에서 냄새가 났어요	That bag is smelly (A smell is coming out of that bag)	14
+Lesson-14-19.mp3	그 방에서 냄새가 났어요	That room is smelly (A smell is coming out of that room)	14
+Lesson-14-21.mp3	땀이 났어요	I’m sweating	14
+Lesson-14-22.mp3	저는 그것이 기억 났어요	I remembered that… which means that I also currently remember that fact… which means that I know that fact that I had previously remembered	14
+Lesson-14-23.mp3	저는 그것이 기억 나요	That memory is literally currently just coming to my mind	14
+Lesson-14-24.mp3	나는 그때 기억이 안 났어	I didn’t remember (that) at that time	14
+Lesson-14-25.mp3	나는 그것이 기억 안 나	I don’t remember that	14
+34-I-was-given-a-chance.m4a	기회가 주어졌어요	I was given a chance	14
+35-that-house-was-built-in-Korea.m4a	그 집은 한국에서 지어졌어요	that house was built in Korea	14
+7-I-am-proud-of-you.m4a	나는 네가 자랑스러워	I am proud of you	15
+8-I-dont-like-that-person.m4a	나는 그 사람이 싫어	I don’t like that person	15
+Lesson-15-9.mp3	저는 한국이 좋아요	I like Korea	15
+Lesson-15-10.mp3	저는 그것이 기억나요!	I remember that!	15
+Lesson-15-11.mp3	저는 땀이 나요!	I’m sweating!	15
+Lesson-15-12.mp3	저는 화가 났어요	I was/I am angry	15
+9-I-joined-a-club.m4a	나는 동아리에 들었어	I joined a club (I “entered” a club)(i)	15
+Lesson-15-13.mp3	저는 그 그림이 마음에 들어요	I like that picture (That picture enters my heart)	15
+Lesson-15-14.mp3	저는 손을 들었어요	I raised my hand (I “held up” my hand/carried my hand)	15
+Lesson-15-15.mp3	저는 가방을 들었어요	I carried the/my bag	15
+12-My-dad-went-into-the-bank.m4a	아버지는 은행에 들어갔어요	My dad went into the bank	15
+11-A-man-came-into-room.m4a	남자는 방에 들어왔어요	A man came into the room	15
+Lesson-15-16.mp3	저는 집에서 나갔어요	I went out of home (I left home)	15
+Lesson-15-17.mp3	학생은 학교에서 나왔어요	The student came out of school	15
+Lesson-15-18.mp3	나는 나의 숙제를 가져왔어	I brought my homework	15
+14-That-student-didnt-take-his-homework.m4a	그 학생은 숙제를 가져오지 않았어	That student didn’t bring his homework	15
+Lesson-15-19.mp3	저는 저의 모자를 가져갈 거예요	I will bring/take my hat	15
+15-I-will-go-back-to-Canada-on-September-1st.m4a	저는 9월1일에 캐나다에 돌아갈 거예요	I will go back to Canada on September 1st	15
+16-I-gave-my-friend-back-his-book.m4a	저는 친구에게 책을 돌려줬어요	I gave my friend back his book	15
+17-That-is-similar.m4a	그것은 비슷해요	That is similar	15
+18-We-are-so-different.m4a	우리는 매우 달라요	We are so different	15
+Lesson-15-20.mp3	우리는 똑같아요	We are exactly the same	15
+19-I-am-similar-to-my-friend.m4a	저는 친구와 비슷해요	I am similar to my friend	15
+20-That-building-is-different-from-yesterday.m4a	그 건물은 어제와 달라요	That building is different from yesterday	15
+Lesson-15-21.mp3	캐나다 사람들은 한국 사람들과 같아요	Canadian people are the same as Korean people	15
+Lesson-15-22.mp3	이 학교는 우리 학교와 똑같아요	This school is exactly the same as our school	15
+Lesson-15-24.mp3	우리 학교와 이 학교는 똑같아요	Our school and this school are exactly the same	15
+21-I-met-a-handsome-man.m4a	나는 잘생긴 남자를 만났어	I met a handsome man	15
+22-I-met-a-similar-man.m4a	나는 비슷한 남자를 만났어	I met a similar man, or	15
+Lesson-15-25.mp3	나는 같은 남자를 만났어	I met the same man	15
+23-I-met-a-man-that-is-similar-to-your-boyfriend.m4a	나는 (너의 남자친구와 비슷한 남자)를 만났어	I met a man that is similar to your boyfriend	15
+Lesson-15-s1.mp3	저는 그와 달라요	I am different from him	15
+24-I-saw-a-different-movie.m4a	저는 다른 영화를 봤어요	I saw a different (another) movie	15
+Lesson-15-27.mp3	또 다른 문제는 그것이 비싸요	Another problem is it (that thing) is expensive	15
+25-I-saw-another-movie.m4a	저는 또 다른 영화를 봤어요	I saw ANother movie	15
+26-I-am-going-to-write-a-letter-for-my-friend.m4a	나는 편지를 친구를 위해 쓸 거야	I am going to write a letter for my friend	15
+27-I-used-that-machine.m4a	나는 그 기계를 썼어	I used that machine	15
+28-My-father-always-wears-a-hat.m4a	저의 아버지는 모자를 항상 써요	My father always wears a hat	15
+29-The-picture-is-hanging-on-the-wall.m4a	그림은 벽에 걸려 있어요	The picture is hanging on the wall	15
+55.mp3	나는 줄에 걸렸어	I tripped over the line	15
+31-It-takes-2-hours-to-get-from-Seoul-to-Incheon.m4a	서울부터 인천까지 2시간 걸려요	It takes 2 hours to get from Seoul to Incheon	15
+32-It-takes-10-minutes-to-get-from-our-school-to-the-restaurant.m4a	우리학교에서 식당까지 10분 걸려요	It takes 10 minutes to get from our school to the restaurant	15
+33-My-stomach-is-sore.m4a	배가 아파요	My stomach is sore	15
+34-My-arm-is-sore.m4a	팔이 아파요	My arm is sore	15
+35-I-was-sick-yesterday.m4a	저는 어제 너무 아팠어요	I was very sick yesterday	15
+36-I-caught-a-cold.m4a	저는 감기에 걸렸어요	I caught a cold/I have a cold	15
+37-I-caught-the-flu.m4a	저는 독감에 걸렸어요	I caught the flu/I have the flu	15
+38-My-son-was-coughing-loudly.m4a	저의 아들은 시끄럽게 기침했어요	My son coughed loudly	15
+Lesson-16-1.mp3	한국은 지난 50년 동안 문화적으로 많이 변했어요	Korea has changed a lot culturally in the period of/during/for the past 50 years	16
+Lesson-16-2.mp3	그것은 경제적으로 가능하지 않아요	That isn’t economically possible	16
+8-I-often-buy-clothes-impulsively.m4a	저는 자주 옷을 충동적으로 사요	I often buy clothes impulsively	16
+Lesson-16-3.mp3	미국은 대통령을 민주적으로 선출해요	America elects its president democratically	16
+Lesson-16-6.mp3	미국은 경제적인 결정을 했어요	The US made an economical decision	16
+11-That-school-is-a-historical-building.m4a	저 학교는 역사적인 건물이에요	That school is a historical building	16
+Lesson-16-7.mp3	이것은 과학적인 문제예요	This is a scientific problem	16
+13-Im-too-impulsive.m4a	저는 너무 충동적이에요	I’m too impulsive	16
+12-The-US-is-a-democratic-nation.m4a	미국은 민주적인 나라예요	The US is a democratic nation	16
+Lesson-16-16.mp3	그 여자가 아주 사랑스러워요	That girl is something “with the properties of love”	16
+18-That-girls-hair-color-is-natural.m4a	그 여자의 머리 색깔은 자연스러워	That girl’s hair color has “the properties of nature”	16
+Lesson-16-19.mp3	저는 친구에게 실망했어요	I was disappointed in my friend	16
+Lesson-16-20.mp3	우리 아버지는 저에게 실망했어요	Our dad was disappointed in me yesterday	16
+Lesson-16-21.mp3	저는 영화에 실망했어요	I was disappointed in the movie	16
+Lesson-16-22.mp3	우리 아버지는 식당에 실망했어요	Our dad was disappointed in the restaurant	16
+16-The-result-was-a-little-bit-disappointingg.m4a	결과는 조금 실망스러웠어요	The result was a little bit disappointing	16
+Lesson-16-23.mp3	그 영화는 조금 실망스러웠어요	The movie was a little bit disappointing	16
+Lesson-16-28.mp3	저는 만족해요	I am satisfied	16
+Lesson-16-29.mp3	그는 만족해요	He is satisfied	16
+17-The-results-were-satisfactory.m4a	결과는 만족스러웠어요	The results were satisfactory	16
+Lesson-16-30.mp3	저는 결과가 만족스러웠어요	I was satisfied with the results	16
+Lesson-16-32.mp3	저는 그 여자를 사랑해요	I love that girl	16
+Lesson-16-33.mp3	그 여자는 사랑스러워요	That girl is lovely	16
+Lesson-16-34.mp3	저는 저의 한국어 실력을 자랑했어요	I showed off/boasted my Korean skills	16
+Lesson-16-35.mp3	저는 저의 딸이 아주 자랑스러워요	I am very proud of my daughter	16
+Lesson-16-36.mp3	저는 학생들이 자랑스러워요	I am proud of the students	16
+Lesson-16-37.mp3	우리 딸은 사랑스러운 여자예요	Our daughter is a loving/lovely girl	16
+19-he-speaks-Korean-naturally.m4a	그는 한국어를 자연스럽게 말해요	he speaks Korean naturally	16
+Lesson-16-38.mp3	저는 그를 사랑스럽게 봤어요	I looked at him lovingly	16
+Lesson-16-39.mp3	그는 실망스럽게 행동했어요	He acted disappointingly (in a disappointing way)	16
+Lesson-16-40.mp3	저는 일을 만족스럽게 끝냈어요	I finished the work/job satisfactorily (in a satisfactory way)	16
+Lesson-17-4.mp3	저는 10분 동안 쉬고 갈 거예요	I will rest for 10 minutes then go	17
+Lesson-17-5.mp3	애기가 1분 동안 울고 배를 먹었어요	The baby cried for 1 minute and then ate a pear	17
+Lesson-17-6.mp3	저는 당근을 칼로 자르고 냉장고에 넣었어요	I cut the carrots with the knife then put (them) in the fridge	17
+Lesson-17-7.mp3	우리는 서울에서 2일 동안 머무르고 부산에 갈 거예요	We will stay in Seoul for two days, then go to Busan	17
+2-I-will-finish-my-homework-and-then-go-home.m4a	저는 숙제를 끝내고 나서 집으로 갈 거예요	I will finish my homework and then go home	17
+Lesson-17-8.mp3	저는 친구를 만나고 나서 은행에 갈 거예요	I will meet a friend and then go to the bank	17
+Lesson-17-9.mp3	저는 과일도 좋아하고 야채도 좋아해요	I like fruit, and I like vegetables too	17
+Lesson-17-10.mp3	저는 과일과 야채도 좋아해요	I like fruit and vegetables too	17
+3-That-person-is-kind-and-smart.m4a	그 사람은 착하고 똑똑해요	That person is kind and smart	17
+4-My-girlfriend-is-cute-and-pretty.m4a	저의 여자 친구는 귀엽고 예뻐요	My girlfriend is cute and pretty	17
+Lesson-17-11.mp3	오늘 고객이 많고 분위기가 좋아요	Today there are a lot of customers, and the atmosphere is good	17
+Lesson-17-12.mp3	저는 열심히 공부했고 의사가 되었어요	I studied hard and (then) became a doctor	17
+Lesson-17-13.mp3	저는 영어 문법을 열심히 공부했고 시험을 잘 봤어요	I studied English grammar hard and then did well on the test	17
+Lesson-17-14.mp3	저는 방학 동안 영어 문법을 많이 공부했고 영어 신문도 많이 읽었어요	During vacation I studied a lot of English grammar, and I also read a lot of English newspapers	17
+Lesson-17-15.mp3	이 산은 높고 저 산은 낮아요	This mountain is high, but that mountain is low	17
+Lesson-17-16.mp3	문법은 어렵고 단어는 쉬워요	Grammar is hard, but words are easy	17
+Lesson-17-17.mp3	이 사람은 부자이고 저 사람은 가난해요	That person is rich, but that person is poor	17
+1-This-person-is-my-mother-and-this-person-is-my-father.m4a	이분은 저의 아버지이고 이분은 저의 어머니입니다	This person is my father, and this person is my mother	17
+Lesson-17-18.mp3	저는 당근을 칼로 잘라서 냉장고에 넣었어요	I cut the carrots with the knife then put them in the fridge(서)	17
+Lesson-17-6.mp3	저는 당근을 칼로 자르고 냉장고에 넣었어요	I cut the carrots with the knife then put them in the fridge(고)	17
+5-I-will-go-to-school-and-then-study.m4a	저는 학교에 가서 공부할 거예요	I will go to school and then study	17
+6-We-came-home-and-went-to-sleep-immediately.m4a	우리는 집에 와서 바로 잤어요	We came home and went to sleep immediately	17
+Lesson-17-21.mp3	우리는 맛있는 고기를 골라서 같이 먹었어요	We chose delicious meat then ate together	17
+Lesson-17-22.mp3	문을 열어서 밖으로 나갔어요	I opened the door and then went outside	17
+7-I-lied-down-and-read-a-book.m4a	저는 누워서 책을 읽었어요	I lied down and read a book	17
+8-Im-going-to-sit-down-and-relax.m4a	나는 앉아서 쉴 거야	I’m going to sit down and relax	17
+Lesson-17-25.mp3	저는 줄에 서서 순서를 기다렸어요	I stood in line and waited for my turn	17
+9-I-want-to-study-Korean.m4a	저는 한국어를 배우고 싶어요	I want to study Korean	17
+10-I-want-to-go-to-Canada.m4a	저는 캐나다에 가고 싶어요	I want to go to Canada	17
+11-I-want-to-write-a-letter-for-my-girlfriend.m4a	저는 여자친구를 위해 편지를 쓰고 싶어요	I want to write a letter for my girlfriend	17
+Lesson-17-26.mp3	저는 새로운 차를 사고 싶어요	I want to buy a new car	17
+Lesson-17-27.mp3	저는 내일 쉬고 싶어요	I want to rest tomorrow	17
+Lesson-17-28.mp3	저는 저의 친구를 파티에 초대하고 싶어요	I want to invite my friend to the party	17
+Lesson-17-29.mp3	저는 방학 동안 책 두 권을 읽고 싶어요	I want to read two books during vacation	17
+12-I-want-to-be-a-teacher.m4a	저는 선생님이 되고 싶어요	I want to be/become a teacher	17
+13-I-wanted-to-be-a-teacher.m4a	저는 선생님이 되고 싶었어요	I wanted to be a teacher	17
+14-that-girl-wanted-to-marry-me.m4a	그 여자는 나랑 결혼하고 싶었어	that girl wanted to marry me	17
+15-I-miss-my-friend.m4a	저는 친구를 보고 싶어요	I miss my friend/I want to see my friend	17
+16-I-want-that-book.m4a	저는 그 책을 원해요	I want that book	17
+17-I-want-to-read-that-book.m4a	저는 그 책을 읽고 싶어요	I want to read that book	17
+Lesson-17-30.mp3	저는 술을 안 마시고 싶어요	I don’t want to drink alcohol	17
+Lesson-17-31.mp3	저는 울고 싶지 않아요	I don’t want to cry	17
+Lesson-17-32.mp3	나는 너를 파티에 초대하고 싶지 않아	I don’t want to invite you to the party	17
+Lesson-17-33.mp3	저는 부자가 되고 싶지 않아요	I don’t want to become a rich man	17
+Lesson-17-34.mp3	방학 동안 저는 학교에 있고 싶지 않아요	I don’t want to be at school during vacation	17
+4-I-am-listening-to-music.m4a	나는 음악을 듣고 있어	I am listening to music	18
+5-My-father-is-sleeping.m4a	저의 아버지는 자고 있어요	My father is sleeping	18
+6-The-girls-are-watching-a-movie-now.m4a	여자들은 지금 영화를 보고 있어요	The girls are watching a movie now	18
+Lesson-18-1.mp3	저는 사과를 자르고 있어요	I am cutting the apple	18
+Lesson-18-2.mp3	저는 청구서를 지금 내고 있어요	I am paying the bill now	18
+Lesson-18-3.mp3	저는 밥을 먹고 있었어요	I was eating	18
+Lesson-18-4.mp3	학생들은 수업 시간 동안 자고 있었어요	The students were sleeping during class	18
+Lesson-18-3.mp3	저는 밥을 먹고 있었어요	I was eating	18
+Lesson-18-6.mp3	학생들은 자고 있었어요	The students were sleeping	18
+Lesson-18-7.mp3	저는 밥을 먹었어요	I ate	18
+Lesson-18-8.mp3	학생들은 잤어요	The students slept	18
+Lesson-18-9.mp3	저는 백화점에서 쇼핑하고 있었어요	I was shopping at the department store	18
+Lesson-18-10.mp3	대학생은 책상에서 공부를 하고 있었어요	The university student was studying at his desk	18
+Lesson-18-11.mp3	나는 다음 주에 시험 공부를 하고 있을 거야	Next week, I will be studying for an exam(i)	18
+7-I-live-in-Korea.m4a	저는 한국에서 살고 있어요	I live(am living) in Korea	18
+9-I-know-that.m4a	나는 그것을 알고 있어	I know that	18
+Lesson-18-14.mp3	집에 빨리 와!	come home quickly	18
+11-I-have-a-pen.m4a	나는 펜을 가지고 있어	I have a pen	18
+12-I-have-a-girlfriend.m4a	나는 여자 친구가 있어	I have a girlfriend	18
+13-Im-sitting.m4a	나는 앉아 있어	I’m sitting	18
+14-Im-standing-next-to-the-school.m4a	나는 학교 옆에 서 있어	I’m standing next to the school	18
+15-Im-lying-in-bed.m4a	나는 침대에 누워 있어	I’m lying in bed	18
+Lesson-18-17.mp3	그 돼지는 살아 있어요	That pig is living (alive)	18
+Lesson-18-18.mp3	그 소는 살아 있지 않아요	That cow isn’t living (alive)	18
+Lesson-18-19.mp3	날씨가 매일 밤에 추워져요	The weather gets cold every night	18
+16-The-weather-got-cold-over-the-weekend.m4a	날씨는 주말에 추워졌어	The weather got cold over the weekend	18
+Lesson-18-20.mp3	기름 값은 비싸졌어요	The price of oil got expensive	18
+Lesson-18-21.mp3	그 사람은 밥을 먹고 나서 행복해졌어요	That person ate, and then became happy	18
+Lesson-18-22.mp3	우리 강아지는 지난 1년 동안 많이 커졌어요	Our puppy got a lot bigger in the last year	18
+Lesson-18-23.mp3	저는 군대에 갔고 똑똑해졌어요	I went to the army and got smart	18
+Lesson-18-24.mp3	대학교 수업은 내년에 어려워질 거예요	University classes will get difficult next year	18
+17-My-girlfriend-is-getting-pretty.m4a	저의 여자 친구는 예뻐지고 있어요	My girlfriend is getting pretty	18
+18-House-prices-are-getting-expensive.m4a	집 값은 비싸지고 있어	House prices are getting expensive	18
+Lesson-18-25.mp3	피부가 부드러워지고 있어요	My skin is getting soft	18
+19-I-want-to-become-happy.m4a	나는 행복해지고 싶어	I want to become happy (I want to be happy)	18
+20-I-want-to-become-pretty.m4a	나는 예뻐지고 싶어	I want to become pretty (I want to be pretty)	18
+1-I-want-to-eat-more.m4a	저는 밥을 더 먹고 싶어요 	 I want to eat more	19
+2-I-want-to-sleep-more.m4a	나는 더 자고 싶어 	 I want to sleep more	19
+3-My-sister-read-two-more-books-last-week.m4a	저의 여동생은 지난 주에 책 두 권을 더 읽었어요 	 My sister read two more books last week	19
+4-Two-more-people-will-come.m4a	사람 두 명은 더 올 거예요 	 Two more people will come	19
+5-I-have-two-more-pens.m4a	나는 펜 두 개가 더 있어 	 I have two more pens	19
+6-I-went-to-school-2-more-times-yesterday.m4a	나는 어제 학교에 두 번 더 갔어 	 I went to school two more times yesterday	19
+7-I-studied-harder.m4a	나는 더 열심히 공부했어 	 I studied harder	19
+8-I-studied-more.m4a	나는 공부를 더 했어 	 I studied more	19
+9-I-studied-more.m4a	나는 공부를 더 많이 했어 	 I studied more	19
+10-I-am-more-handsome-than-my-father.m4a	나는 아버지보다 더 잘생겼어 	 I am more handsome than my father	19
+11-Teachers-are-smarter-than-students.m4a	선생님들은 학생들보다 더 똑똑해요 	 Teachers are smarter than students	19
+12-Korean-food-is-spicier-than-western-food.m4a	한식은 양식보다 더 매워 	 Korean food is spicier than western food	19
+13-Today-is-hotter-than-yesterday.m4a	오늘은 어제보다 더 더워 	 Today is hotter than yesterday	19
+14-I-am-taller-than-my-brother.m4a	저는 남동생보다 키가 더 커요 	 I am taller than my brother	19
+15-I-ate-more-than-by-brother.m4a	나는 남동생보다 밥을 더 먹었어 	 I ate more than my brother	19
+16-I-ate-more-than-yesterday.m4a	나는 어제보다 밥을 더 먹었어 	 I ate more than yesterday	19
+Lesson-19-6.mp3	나는 내일 사람 두 명을 만날 거야 	 I will meet two people tomorrow	19
+Lesson-19-7.mp3	나는 내일 사람 두 명을 더 만날 거야 	 I will meet two more people tomorrow	19
+17-I-will-meet-two-more-people-than-yesterday-tomorrow.m4a	나는 내일 어제보다 사람 두 명을 더 만날 거야 	 I will meet two more people than yesterday tomorrow	19
+18-i-am-studying-more-than-usual.m4a	나는 평소보다 더 공부하고 있어 	 I am studying more than usual	19
+19-I-am-studying-harder-than-usual.m4a	나는 평소보다 더 열심히 공부하고 있어 	 I am studying harder than usual	19
+20-Bananas-are-better-than-apples.m4a	바나나는 사과보다 나아 	 Bananas are better than apples	19
+21-Im-better.m4a	병은 나았어 	 I’m better (literally – the sickness/disease is better)	19
+22-My-cold-is-better.m4a	감기는 나았어 	 My cold is better	19
+23-Im-less-handsome-than-my-brother.m4a	나는 남동생보다 덜 잘생겼어 	 I’m less handsome than my brother	19
+24-In-Korea-University-is-not-as-hard.m4a	한국에서 대학교는 고등학교보다 덜 어려워요 	 In Korea, University is not as hard as high school	19
+25-My-girlfriend-is-the-prettiest-girl-in-Korea.m4a	저의 여자 친구는 한국에서 가장 예쁜 여자예요 	 My girlfriend is the prettiest girl in Korea(가장)	19
+26-Family-is-the-most-important.m4a	가족은 가장 중요해요 	 Family is the most important(가장)	19
+27-I-run-the-fastest.m4a	나는 가장 빨리 달려 	 I run the fastest(가장)	19
+Lesson-19-8.mp3	우리가 집에 제일 늦게 도착했어요 	 We arrived home the latest (we were the latest people to arrive at home)(제일)	19
+28-I-like-that-girl-most-that-girl-is-my-favorite.m4a	나는 그 여자를 가장 좋아해 	 I like that girl most (that girl is my favorite)(가장)	19
+29-I-like-math-most-math-is-my-favorite.m4a	나는 수학을 가장 좋아해 	 I like math most (math is my favorite)(가장)	19
+Lesson-19-9.mp3	저는 사과를 가장 싫어해요 	 I dislike apples the most(가장)	19
+Lesson-19-11.mp3	그 여자는 우리 반에서 가장 예쁘지 않은 여자예요 	 That girl is the least pretty in our class(가장)	19
+Lesson-19-12.mp3	그 여자는 우리 반에서 제일 예쁘지 않은 여자예요 	 That girl is the least pretty in our class(제일)	19
+Lesson-19-13.mp3	그 여자는 우리 반에서 제일 못생긴 여자예요 	 That girl is the ugliest in our class(제일)	19
+Lesson-19-14.mp3	수학은 제일 어려워요 	 Math is the hardest(제일)	19
+3-I-am-good-at-swimming.m4a	나는 수영을 잘해	I am good at swimming	20
+4-That-student-studies-well.m4a	저 학생은 공부를 잘해	That student studies well	20
+Lesson-20-1.mp3	우리 애기는 말을 잘해요	Our baby speaks well	20
+5-That-owner-treats-the-customers-well.m4a	그 주인은 고객님들을 잘 대우해요	That owner treats the customers well	20
+7-I-slept-well-last-night.m4a	나는 어젯밤에 잘 잤어	I slept well last night	20
+Lesson-20-4.mp3	저는 잘 모르겠어요*	I don’t know (well)	20
+9-I-am-bad-at-swimming.m4a	나는 수영을 못해	I am bad at swimming	20
+10-That-student-does-not-study-well.m4a	저 학생은 공부를 못해	That student does not study well	20
+13-I-didnt-do-good-on-the-exam-yesterday.m4a	저는 어제 시험을 잘 못 봤어요	I didn’t do good on the exam yesterday	20
+15-I-didnt-study-yesterday.m4a	저는 어제 못 공부했어요	I didn’t study well yesterday/I couldn’t study yesterday	20
+16-I-didnt-study-well-yesterdayI.m4a	저는 어제 공부하지 못했어요	I didn’t study well yesterday/I couldn’t study yesterday	20
+17-I-am-bad-at-studying.m4a	저는 공부를 못해요	I am bad at studying	20
+18-That-was-my-faultmy-mistake.m4a	그것은 제 잘못이었어요	That was my fault/my mistake	20
+Lesson-20-6.mp3	우리 아들은 친구들보다 축구를 더 잘해요	Our (my) son is better than (his) friends at soccer	20
+Lesson-20-7.mp3	그 교수는 다른 교수들보다 수업을 더 잘해요	That professor teaches classes better than other professors	20
+Lesson-20-8.mp3	저는 수영을 작년보다 더 잘해요	I am better at swimming than last year	20
+Lesson-20-9.mp3	우리 아들은 축구를 가장 잘해요	Our (my) son is the best at soccer	20
+Lesson-20-10.mp3	그 교수는 수업을 제일 잘해요	That professor teaches classes the best (is the best at teaching classes)	20
+Lesson-20-11.mp3	저는 축구를 제일 못해요	I play soccer the worst	20
+Lesson-20-12.mp3	저는 수영을 제일 못해요	I swim the worst	20
